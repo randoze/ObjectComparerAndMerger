@@ -7,10 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Reference Include="AssetTaggerContracts">
-      <HintPath>..\..\..\..\..\New folder\Binaries\AssetTaggerContracts.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>

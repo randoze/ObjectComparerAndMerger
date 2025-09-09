@@ -1,8 +1,10 @@
 ﻿
 using DtoTools;
 
-ClassComparer.CompareClasses<AssetTaggerContracts2.DTOs.DTOLocationView, AssetTaggerContracts.DTOs.DTOLocationView>();
 
-string mergedCode = ObjectMerger.MergeClasses<AssetTaggerContracts2.DTOs.DTOLocationView, AssetTaggerContracts.DTOs.DTOLocationView>("DTOLocationView");
+
+ClassComparer.CompareClasses<Person, PersonDto>();
+
+string mergedCode = ObjectMerger.MergeClasses<Person, PersonDto>("PersonMerged");
 Console.WriteLine(mergedCode);
 Console.ReadLine();
