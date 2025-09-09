@@ -5,8 +5,6 @@ VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtoTools", "DtoTools.csproj", "{9BACC357-183A-4053-BB12-D2B63B1009DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetTaggerContracts2", "..\..\..\..\..\New folder\Portal\AssetTaggerContracts\AssetTaggerContracts2.csproj", "{829CEAB2-952B-4CBF-9389-54221693EFBF}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{9BACC357-183A-4053-BB12-D2B63B1009DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BACC357-183A-4053-BB12-D2B63B1009DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BACC357-183A-4053-BB12-D2B63B1009DA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{829CEAB2-952B-4CBF-9389-54221693EFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{829CEAB2-952B-4CBF-9389-54221693EFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{829CEAB2-952B-4CBF-9389-54221693EFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{829CEAB2-952B-4CBF-9389-54221693EFBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
